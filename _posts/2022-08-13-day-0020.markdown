@@ -4,3 +4,20 @@ title:  "Day 20"
 date:   2022-08-13
 categories: daily
 ---	
+It's so hot. 30 god damn degrees. In Ireland. 
+
+Very nice to look at though. And still lovely walking weather if you get out early enough. 
+
+Wrapped up the week with a short kettlebell work out. Don't want to lose my KB focus while training with barbells. 
+
+Annoyingly, I tweaked my neck pressing the 32. Feel silly now. I was tired, didn't sleep great because of the heat, had a few beers last night, probably a bit dehydrated and pretty hungry...
+
+Pressing the two 24s felt fine. String even. So did front squats. But 4 sets in that 32 just didn't go up, I felt a twinge, and now my trap/neck is sore. 
+
+If I had thought about it rationally at the time, I probably would have left out the 32 after the first set. But rationality and hindsight are good friends.
+
+Hopefully it's all good by Monday.
+
+Coming to the end of week 3 now. Starting to feel pretty habitual. I've settled into the groove of the routine and am hoping that I can use the spreadsheets as a kind of anchor to bring me back to this point when there is a break in the routine (eg. holidays, traveling for work).
+
+Now that I have three weeks of data I should start writing some code to find some patterns in there. Three weeks is nothing still, but it's a big enough sample set to create the code.
