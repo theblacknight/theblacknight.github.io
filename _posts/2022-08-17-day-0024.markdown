@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Day 24"
+date:   2022-08-17
+categories: daily
+---	
