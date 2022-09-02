@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Day 40"
+date:   2022-09-02"
+categories: daily
+---
